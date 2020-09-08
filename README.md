@@ -1,2 +1,3 @@
-# flutter-quizzler
-A quiz game app made with Flutter and Dart
+# flutter_quizzler
+
+A quiz application built with Flutter/Dart
